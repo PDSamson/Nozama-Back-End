@@ -1,6 +1,6 @@
 #!/bin/bash
 
-API="https://still-thicket-16022.herokuapp.com"
+API="https://warm-falls-31149.herokuapp.com"
 URL_PATH="/sign-up"
 
 curl "${API}${URL_PATH}" \
