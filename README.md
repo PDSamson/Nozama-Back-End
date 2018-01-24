@@ -2,10 +2,10 @@
 
 ## Links:
 
-### Front-End Deployed Site:  https://tbdwdi.github.io/Nozama-Front-End/
-### Front-End Repo:  https://github.com/Tbdwdi/Nozama-Front-End
-### Back-End Deployed Site:  https://still-thicket-16022.herokuapp.com/
-### Back-End Repo:  https://github.com/Tbdwdi/Nozama-Back-End
+### Front-End Deployed Site:  https://PDSamson.github.io/Nozama-Front-End/
+### Front-End Repo:  https://github.com/PDSamson/Nozama-Front-End
+### Back-End Deployed Site:  https://warm-falls-31149.herokuapp.com/
+### Back-End Repo:  https://github.com/PDSamson/Nozama-Back-End
 
 ## ERD :  https://imgur.com/gallery/CpPAd
 ## API Endpoints :  https://imgur.com/gallery/o3FeG
